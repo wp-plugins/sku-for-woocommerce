@@ -12,7 +12,8 @@ SKU for WooCommerce plugin adds full Stock Keeping Unit (SKU) support to your sh
 
 == Description ==
 
-* Add full SKU support to WooCommerce.
+Add full SKU support to WooCommerce:
+
 * Set SKU by custom format automatically for new products.
 * Regenerate SKUs for all existing products - tested in WooCommerce shop with large number of products.
 
