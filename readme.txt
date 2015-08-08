@@ -12,9 +12,9 @@ Add full SKU support to WooCommerce.
 
 == Description ==
 
-Add full SKU support to WooCommerce.
-Set SKU by custom format automatically for new products.
-Regenerate SKUs for all existing products - tested in WooCommerce shop with large number of products.
+* Add full SKU support to WooCommerce.
+* Set SKU by custom format automatically for new products.
+* Regenerate SKUs for all existing products - tested in WooCommerce shop with large number of products.
 
 = Feedback =
 * We are open to your suggestions and feedback - Thank you for using or trying out one of our plugins!
