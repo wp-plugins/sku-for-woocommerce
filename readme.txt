@@ -8,7 +8,7 @@ Stable tag: 1.0.0
 License: GNU General Public License v3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Add full SKU support to WooCommerce.
+SKU for WooCommerce plugin adds full Stock Keeping Unit (SKU) support to your shop.
 
 == Description ==
 
